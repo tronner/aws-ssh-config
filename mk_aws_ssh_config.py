@@ -42,7 +42,7 @@ Example:
   Try it out:
 
   $ ssh foocorp-tst.alices-bobsledadventures.com
-  alice@prd$ _
+  alice@tst$ _
 """
 
 import sys
