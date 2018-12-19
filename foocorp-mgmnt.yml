@@ -1,0 +1,8 @@
+---
+aws_profile: default
+instance_prefix: foocorp-
+bastion:
+  host: 12.34.56.78
+  user: alice
+instances:
+  user: alice
